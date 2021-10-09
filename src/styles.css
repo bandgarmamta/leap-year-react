@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin-top: 10rem;
+  text-align: center;
+  background-color: #ddd6fe;
+}
+
+input {
+  width: auto;
+  border: 1px solid black;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+button {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  background-color: #f1f0f7;
+}
+
+#output {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
